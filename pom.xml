@@ -4,10 +4,10 @@
 
     <packaging>jar</packaging>
     <groupId>com.jamesward</groupId>
-    <artifactId>pentaho-kettle</artifactId>
+    <artifactId>hello-pentaho-kettle</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Pentaho Kettle</name>
-    <description>Pentaho Kettle</description>
+    <name>Hello Pentaho Kettle</name>
+    <description>Hello Pentaho Kettle</description>
     <url>http://jamesward.com</url>
 
     <properties>
